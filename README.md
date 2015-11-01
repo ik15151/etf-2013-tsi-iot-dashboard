@@ -2,7 +2,7 @@
 
 **Tema:** IoT (Internet of Things) Dashboard
 
-**Predmet:** Telekomunikacijski softver inženjering (TSI)
+**Oblast:** Telekomunikacijski softver inženjering (TSI)
 
 **Vrsta aplikacije:** Web
 
@@ -17,8 +17,10 @@
 
 ![http://i.imgur.com/6CozG5x.png](http://i.imgur.com/6CozG5x.png)
 
-![http://i.minus.com/iYzk85yn2IUT2.png](http://i.minus.com/iYzk85yn2IUT2.png)
+![http://i.imgur.com/T6EGgHY.png](http://i.imgur.com/T6EGgHY.png)
 
-![http://i.minus.com/ibgOF2ZwCfxd9V.png](http://i.minus.com/ibgOF2ZwCfxd9V.png)
+![http://i.imgur.com/m3y2Lj2.png](http://i.imgur.com/m3y2Lj2.png)
+
+![http://i.imgur.com/2eRR8ld.png](http://i.imgur.com/2eRR8ld.png)
 
 ![http://i.imgur.com/o32gkBx.png](http://i.imgur.com/o32gkBx.png)
