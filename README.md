@@ -1,4 +1,4 @@
-# **Tema:** IoT (Internet of Things) Dashboard
+# IoT (Internet of Things) Dashboard
 
 **Oblast:** Telekomunikacijski softver inženjering (TSI)
 
